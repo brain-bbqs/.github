@@ -9,7 +9,6 @@ A comprehensive collection of repositories for behavioral analysis, neuroimaging
 | Repository | Version | Language | Stars | Description | GitHub Link |
 |------------|---------|----------|-------|-------------|-------------|
 | **SimBA** | v1.90.0 | Python | 175 | Simple Behavioral Analysis - Pipeline and GUI for developing supervised behavioral classifiers | [sgoldenlab/simba](https://github.com/sgoldenlab/simba) |
-| **NeuroMCP** | v0.1.0 | Python | 1 | Neural Model Control Protocol server for neuroscience data validation tools | [sgoldenlab/NeuroMCP](https://github.com/sgoldenlab/NeuroMCP) |
 | **brain-bbqs.github.io** | v2.0.0 | HTML | 7 | Official website for Brain Behavior Quantification and Synchronization | [brain-bbqs/brain-bbqs.github.io](https://github.com/brain-bbqs/brain-bbqs.github.io) |
 | **DeepLabCut** | v3.0.0 | Python | 1.8k | Official implementation of DeepLabCut: Markerless pose estimation with deep learning | [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) |
 | **Hannah** | v0.5.0 | TypeScript | 0 | BBQS conversational assistant and data management interface | [sgoldenlab/Hannah](https://github.com/sgoldenlab/Hannah) |
