@@ -1,4 +1,4 @@
-# 👋 Welcome to the Organization for the BBQS Consortium!
+# 👋 Welcome to the organization for the BBQS consortium!
 
 The  Brain Behavior Quantification and Synchronization (BBQS) program is a part of the NIH-funded Brain Initiative.
 
